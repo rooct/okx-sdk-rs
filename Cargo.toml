@@ -11,7 +11,7 @@ authors = ["rooct@rooct.com"]
 homepage = "https://github.com/rooct/okx-sdk.git"
 repository = "https://github.com/rooct/okx-sdk.git"
 keywords = ["okx"]
-categories = ["sdk"]
+categories = ["financial", "network-programming", "api-bindings"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
