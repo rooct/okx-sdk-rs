@@ -18,7 +18,7 @@ reqwest = { version = "0.11.14", features = ["json"] }
 ring = "0.17.0-alpha.11"
 base64 = "0.13.0"
 serde_with = "2.2.0"
-time = { version = "0.3.19", features = [
+time = { version = "0.3.36", features = [
     "local-offset",
     "formatting",
     "serde",
