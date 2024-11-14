@@ -3,6 +3,16 @@ name = "okx-sdk"
 version = "0.1.0"
 edition = "2021"
 
+
+description = "library for okx"
+license = "MIT"
+
+authors = ["rooct@rooct.com"]
+homepage = "https://github.com/rooct/okx-sdk.git"
+repository = "https://github.com/rooct/okx-sdk.git"
+keywords = ["okx"]
+categories = ["okx"]
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
